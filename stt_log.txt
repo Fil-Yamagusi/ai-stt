@@ -1,0 +1,14 @@
+2024-05-05 02:07:25 - root - WARNING - MAIN: start
+2024-05-05 02:07:25 - root - WARNING - MAIN: DB open connection
+2024-05-05 02:07:25 - root - WARNING - TB: start: @fil_fc_ai_stt_bot | Модуль 4, ДЗ 3: Speech-to-text
+2024-05-05 02:07:41 - root - INFO - MAIN: пользователь 2124501689 запросил лог-файл
+2024-05-05 02:08:10 - root - INFO - Временный файл voice/file_14.oga от пользователя 2124501689 - в список на удаление
+2024-05-05 02:08:10 - root - INFO - Временный файл voice/file_14.wav от пользователя 2124501689 - в список на удаление
+2024-05-05 02:08:14 - root - INFO - MAIN: ask_speech_recognition True, сейчас будем записывать файл длиннее 15 секунд 6 7 8 9 10 11 12 13 14 15 16
+2024-05-05 02:08:16 - root - INFO - MAIN: ask_speech_kit_stt True, Сейчас будем записывать файл длиннее 15 секунд (678)910-11-12 13 14 15 16
+2024-05-05 02:08:49 - root - INFO - MAIN: пользователь 2124501689 запросил лог-файл
+2024-05-05 02:09:27 - TeleBot - ERROR - Infinity polling: polling exited
+2024-05-05 02:09:27 - TeleBot - ERROR - Break infinity polling
+2024-05-05 02:09:27 - root - WARNING - TB: finish
+2024-05-05 02:09:27 - root - WARNING - MAIN: DB close connection
+2024-05-05 02:09:27 - root - WARNING - MAIN: finish
